@@ -7,7 +7,7 @@ import "@styles/style.css"; // Ensure this path is correct
 
 export default function ResumeNew() {
   const googleDrivePreviewLink =
-  "https://drive.google.com/file/d/1_Sm6xxUlkjnHmsP8IfdUMBXC4pP4tcnR/view";
+  "https://drive.google.com/file/d/1_Sm6xxUlkjnHmsP8IfdUMBXC4pP4tcnR/preview";
 
   const googleDriveDownloadLink =
   "https://drive.google.com/uc?export=download&id=1_Sm6xxUlkjnHmsP8IfdUMBXC4pP4tcnR";
