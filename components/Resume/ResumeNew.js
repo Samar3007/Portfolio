@@ -7,10 +7,10 @@ import "@styles/style.css"; // Ensure this path is correct
 
 export default function ResumeNew() {
   const googleDrivePreviewLink =
-  "https://drive.google.com/file/d/1Rrcvs-6nId-kQocnjoegEyw4ivYidfs7/preview";
+  "https://drive.google.com/file/d/1_Sm6xxUlkjnHmsP8IfdUMBXC4pP4tcnR/view";
 
   const googleDriveDownloadLink =
-  "https://drive.google.com/uc?export=download&id=1Rrcvs-6nId-kQocnjoegEyw4ivYidfs7";
+  "https://drive.google.com/uc?export=download&id=1_Sm6xxUlkjnHmsP8IfdUMBXC4pP4tcnR";
 
   return (
     <Container fluid className="resume-section">
