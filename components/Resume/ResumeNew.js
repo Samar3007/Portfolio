@@ -10,7 +10,7 @@ export default function ResumeNew() {
   "https://drive.google.com/file/d/1WlRA0Svl37yxxySnhsatpiTqI9abtDf6/preview";
 
   const googleDriveDownloadLink =
-  "https://drive.google.com/uc?export=download&id=1_1WlRA0Svl37yxxySnhsatpiTqI9abtDf6";
+  "https://drive.google.com/uc?export=download&id=1WlRA0Svl37yxxySnhsatpiTqI9abtDf6";
 
   return (
     <Container fluid className="resume-section">
